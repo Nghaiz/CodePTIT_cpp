@@ -1,0 +1,1 @@
+{"name":"Local: CPP0735","url":"d:\\Coding\\code_cpp\\Codeptit\\CPP0735.cpp","tests":[{"id":1732968978911,"input":"2\n5 6\n0 1 0 1 0 1\n1 0 1 0 1 0\n0 1 1 1 1 0\n0 0 1 1 1 0\n1 1 1 1 1 1\n2 2\n1 1\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\code_cpp\\Codeptit\\CPP0735.cpp","group":"local","local":true}

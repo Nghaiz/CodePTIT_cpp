@@ -1,0 +1,1 @@
+{"name":"Local: CPP0232","url":"d:\\Coding\\code_cpp\\Codeptit\\CPP0232.cpp","tests":[{"id":1733122840149,"input":"2\n2 3\n1 1 1\n0 1 1\n2 2\n1 0\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\code_cpp\\Codeptit\\CPP0232.cpp","group":"local","local":true}

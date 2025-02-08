@@ -1,0 +1,1 @@
+{"name":"Local: CPP0342","url":"d:\\Coding\\code_cpp\\Codeptit\\CPP0342.cpp","tests":[{"id":1727767428580,"input":"2\nAC2BEW3\nACCBA10D2EW30","output":"ABCEW5\nAABCCDEW6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\code_cpp\\Codeptit\\CPP0342.cpp","group":"local","local":true}

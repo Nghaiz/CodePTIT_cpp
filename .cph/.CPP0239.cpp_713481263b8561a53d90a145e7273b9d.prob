@@ -1,0 +1,1 @@
+{"name":"Local: CPP0239","url":"d:\\Coding\\code_cpp\\Codeptit\\CPP0239.cpp","tests":[{"id":1734037000570,"input":"2\n3 3\n10 20 10 20 40 20 30 50 0\n3 3\n10 20 10 -20 -30 10 30 50 0","output":"2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\code_cpp\\Codeptit\\CPP0239.cpp","group":"local","local":true}

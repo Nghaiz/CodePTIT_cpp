@@ -1,0 +1,1 @@
+{"name":"Local: CPP0747","url":"d:\\Coding\\code_cpp\\Codeptit\\CPP0747.cpp","tests":[{"id":1728323590738,"input":"2\n010010\n1011110000","output":"3\n6\n\n "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\code_cpp\\Codeptit\\CPP0747.cpp","group":"local","local":true}
